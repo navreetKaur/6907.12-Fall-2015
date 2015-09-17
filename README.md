@@ -34,8 +34,8 @@ There are no required textbooks for this class. However, through out the cource,
 reference materials for you to read.
 
 ### Grading
-* 40% - Project Progress Report 
-* 40% - Final Project
+* 30% - Project Progress Report 
+* 50% - Final Project
 * 20% - Peer Evaluation
 
 ### Group Project
@@ -61,7 +61,7 @@ Schedules are subject to change
 - Week 11 (11/12/2015) - Client App (Web/Mobile)
 - Week 12 (11/19/2015) - User Management and Security
 - Week 13 (11/26/2015) - Project workshop
-- Week 14 (12/03/2015) - Project workshop
+- Week 14 (12/03/2015) - Final Project Presentation
 
 ### Course Outline
 
