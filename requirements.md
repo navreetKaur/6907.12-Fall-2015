@@ -29,7 +29,7 @@ You will automatically fail the class if you build something that's outside the 
 
 ### 2. Have a service oriented architecture
 
-You project must have a web API layer and a client that consumes it.
+You project must have a web API layer and a client that consumes it, preferable RESTful.
 Your project must have internal API that hooks in to your core business logic.
 You project must have core business logic that's agnostic of the web and the database.
 
@@ -37,6 +37,16 @@ You project must have core business logic that's agnostic of the web and the dat
 
 All of your code should not be in a single monilithic web framework like Spring MVC, Django, or Ruby on Rails.
 Doing so will cause you to automatically fail the class.
+
+### 4. Has a database component
+
+Most if not all data needed for your computation should be persisted in a persistent database.
+You may or may not use an ORM to abstract away your database. However, there should be an interface that
+hooks into your database such that if one were to replace a database with some other technology, it
+should be relatively easy to do so.
+
+### 5. Has a user management component
+
 
 More details to come
 
